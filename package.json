@@ -17,7 +17,10 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "dependencies": {
+<<<<<<< HEAD
     "simplelightbox": "^2.14.3",
+=======
+>>>>>>> 43e516d739349c2ea82933b42ab704cadaf2993d
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
